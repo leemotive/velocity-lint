@@ -1,6 +1,6 @@
 {
   "name": "velocity-lint",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "check the template file of velocity. show tips  when using the variable without \"!\"",
   "main": "index.js",
   "scripts": {
