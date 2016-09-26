@@ -1,7 +1,7 @@
 
 var through2 = require('through2');
 
-function vm (options) {
+module.exports = function (options) {
     options = options || {};
     return through2.obj(function (file, enc, cb) {
         if (file.isNull()) {
