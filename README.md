@@ -23,7 +23,9 @@ In up codes, we check $name in line 2, $item.name in line 4, $NumberUtil in line
 ## Installation
 Install package with NPM and add it to your development devpendencies:
 
-`npm install --save-dev velocity-lint`
+```bash
+npm install --save-dev velocity-lint
+```
 
 
 ## Usage
